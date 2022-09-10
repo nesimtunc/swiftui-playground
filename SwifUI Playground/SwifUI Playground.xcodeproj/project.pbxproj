@@ -11,6 +11,7 @@
 		48389CE428CC2F5000BE066D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48389CE328CC2F5000BE066D /* ContentView.swift */; };
 		48389CE628CC2F5100BE066D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48389CE528CC2F5100BE066D /* Assets.xcassets */; };
 		48389CE928CC2F5100BE066D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48389CE828CC2F5100BE066D /* Preview Assets.xcassets */; };
+		48389CF028CC314B00BE066D /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48389CEF28CC314B00BE066D /* ItemModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		48389CE328CC2F5000BE066D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		48389CE528CC2F5100BE066D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48389CE828CC2F5100BE066D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		48389CEF28CC314B00BE066D /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				48389CE128CC2F5000BE066D /* SwifUI_PlaygroundApp.swift */,
 				48389CE328CC2F5000BE066D /* ContentView.swift */,
+				48389CEF28CC314B00BE066D /* ItemModel.swift */,
 				48389CE528CC2F5100BE066D /* Assets.xcassets */,
 				48389CE728CC2F5100BE066D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48389CF028CC314B00BE066D /* ItemModel.swift in Sources */,
 				48389CE428CC2F5000BE066D /* ContentView.swift in Sources */,
 				48389CE228CC2F5000BE066D /* SwifUI_PlaygroundApp.swift in Sources */,
 			);
